@@ -1,0 +1,21 @@
+---
+title: "Lab 11"
+author: "Lin Wang"
+format: html
+---
+
+
+
+## What did you learn?
+
+- Through recent class, I learned about various tools and strategies for sharing research findings with the public and peers. Specifically, I gained knowledge about using Quarto websites as a platform for disseminating research in the forms of articles and presentations. I learned about the directory structure for organizing a Quarto website, the YAML frontmatter for creating articles and presentations, and the options for rendering content in HTML and PDF formats. Additionally, I learned about the reveal.js framework for creating interactive and responsive presentations.
+
+## What did you find most/ least challenging?
+
+- The most challenging aspect of the lab was understanding how to configure the YAML frontmatter for Quarto articles and presentations, particularly in terms of specifying metadata such as citation styles, bibliographies, and format options. Additionally, navigating the directory structure of a Quarto website and ensuring proper organization of files required some attention to detail.
+
+- I found the concept of using Quarto websites for sharing research findings to be straightforward and intuitive. The lab provided clear explanations and examples, which made it easier to grasp the overall process.
+
+## What resources did you consult?
+ 
+- During the lab, I primarily consulted the lab recipes and our textbook provided, which outlined the concepts and steps involved in sharing research using Quarto websites. Additionally, I referred to online documentation and tutorials for Quarto and reveal.js to gain a deeper understanding of specific features and functionalities. This combination of resources helped me successfully complete the lab tasks and gain proficiency in using Quarto for research dissemination.
